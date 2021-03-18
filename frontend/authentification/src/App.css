@@ -43,6 +43,16 @@ input{
   margin-bottom: 16px;
   background-color: #F3F5F6;
 }
+
+.password{
+  margin-bottom: 0px;
+}
+
+small{
+  margin-bottom: 8px;
+  color: #677079;
+  font-size: 12px;
+}
  button{
    border: none;
    border-radius: 5px;
